@@ -21,7 +21,7 @@ Before you begin to develop applications that interface with robots on Android, 
 
 - Add Bluetooth Permissions
 	- Open the **AndroidManifest.xml** file for the project
-	- Add the ```BLUETOOTH``` and ```BLUETOOTH_ADMIN``` permissions
+	- Add the ```BLUETOOTH```, ```BLUETOOTH_ADMIN``` and ```ACCESS_COARSE_LOCATION```permissions
 
 #### 4. Integrate Connection and Commands
 
